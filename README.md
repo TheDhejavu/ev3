@@ -2,7 +2,7 @@
 
 This is an easy to use event emitter in golang using go concurrency.
 
-```
+```go
 
 package main
 
